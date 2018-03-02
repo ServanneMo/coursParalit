@@ -20,11 +20,16 @@
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/bovaryFin.png" -->
+<!-- .slide: data-background-image="img/1.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
+## Qu'est-ce que le Roman-Photo ?
 
 * Phénomène éditorial de l'après-guerre
 * 15 millions de lecteurs/lectrices dans les années 1960-1970
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/1.jpg" data-background-size="contain"-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -69,10 +74,11 @@ source : _Droit de Regard_ (1985).
 
 >Tout comme il existe un romanesque hors roman, il y a du photo-romanesque bien au-delà des limites du roman-photo. […] En effet, la dynamique de la culture amène des croisements entre domaines qui, de prime abord, semblent s’exclure – en l’occurrence le monde du  roman-photo, représentation typique d’une industrie culturelle, et le monde de l’art, que l’on situe aux antipodes d’une telle industrie – mais entre lesquels il se crée des échanges féconds.
 
+>Jan Baetens, *Pour le roman-photo*, 2010.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/BovaryPage1.png" -->
 <!-- .slide: class="hover"-->
@@ -80,9 +86,10 @@ source : _Droit de Regard_ (1985).
 
 ## Problématiques
 
-* (historique) Comment le roman-photo, initialement créé pour répondre à une stratégie éditoriale et commerciale, s'est-il érigé en une forme esthétique capable de répondre à des enjeux heuristiques singuliers ?
+* (historique) Comment le roman-photo, initialement créé pour répondre à une stratégie éditoriale et commerciale, s'est-il érigé en une forme esthétique capable de répondre à des enjeux heuristiques et esthétiques singuliers ?
 * (paralittéraire) Du roman-photo au photoromanesque, ne peut-on pas dépasser l'opposition entre médias ou littérature populaires vs savants, pour envisager plutôt une convergence culturelle ?
 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -92,9 +99,9 @@ source : _Droit de Regard_ (1985).
 
 ## Concepts-clés
 
-* Culture de la convergence (Jenkins)
-* Média = réalité technique et discursive
+* Média (comme entité technologique et discursive)
 * Remédiation (Bolter & Grusin)
+* Culture de la convergence (Jenkins)
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -104,7 +111,7 @@ source : _Droit de Regard_ (1985).
 <!-- .slide: data-background-image="img/nelFondo.png" data-background-size="contain"-->
 
 
-## Contre le roman-photo (des débuts difficiles)
+## Contre le roman-photo <br/>(des débuts difficiles)
 
 
 source : _Nel fondo del Cuore_ (premier roman-photo).
@@ -119,9 +126,8 @@ source : _Nel fondo del Cuore_ (premier roman-photo).
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/BovaryPage1.png" -->
-<!-- .slide: class="hover"-->
 
-## Le roman-photo : la combinaison du "pire" de chaque média ?
+## Le roman-photo : <br/>la combinaison du "pire" de chaque média ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -136,7 +142,7 @@ source : _Nel fondo del Cuore_ (premier roman-photo).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/BovaryTexte1.png" -->
+<!-- .slide: data-background-image="img/bovaryTexte1.png" -->
 
 
 source : _Madame Bovary_ (adaptation en roman-photo).
@@ -144,7 +150,7 @@ source : _Madame Bovary_ (adaptation en roman-photo).
 <!-- .element: class="source" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-video="img/BovaryTexte2.png" -->
+<!-- .slide: data-background-image="img/BovaryTexte2.png" -->
 
 
 source : _Madame Bovary_ (adaptation en roman-photo).
@@ -160,6 +166,14 @@ source : _Madame Bovary_ (adaptation en roman-photo).
 * Esthétique de la pose (pétrification des sujets)
 * Photo de studio (lumière artificielle)
 * Fonction illustrative basique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/nelFondo.png" data-background-size="contain" -->
+
+source : _Nel Fondo del Cuore_
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -192,6 +206,9 @@ source : _Il figlio rubato_.
 
 <!-- .slide: data-background-image="img/trou.png" data-background-size="contain"-->
 
+source : _Nel Fondo del Cuore_
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bovaryBaiser.png" data-background-size="contain"-->
@@ -218,7 +235,7 @@ source : _Il figlio rubato_.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/nelFondo.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/bovaryBaiser.png" data-background-size="contain"-->
 
 <!-- .slide: class="hover"-->
 
@@ -231,7 +248,7 @@ source : _Il figlio rubato_.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/nelFondo.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/finEmma.png" data-background-size="contain"-->
 
 source : _Madame Bovary_ (adaptation en roman-photo).
 
@@ -239,35 +256,79 @@ source : _Madame Bovary_ (adaptation en roman-photo).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<iframe width='620' height='349' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='https://player.ina.fr/player/embed/CAB89026157/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/620/349/0'></iframe>
+<iframe width='620' height='349' frameborder='0' marginheight ='0'
+marginwidth='0' scrolling ='no' src='https://player.ina.fr/player/embed/CAB89026157/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/wide/0'></iframe>
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-## Pour un Nouveau Roman-photo (le renouveau conceptuel des années 1980)
+<!-- .slide: data-background-image="img/DR01.png" data-background-size="contain"-->
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## L'héritage des avant-gardes littéraires du Nouveau Roman
-
+## Pour un Nouveau Roman-photo <br>(la remédiation conceptuelle des années 1980)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Une aventure éditoriale : le rôle des éditions de Minuit
+<!-- .slide: data-background-image="img/droitRegardcouv.jpg" data-background-size="contain"-->
 
-* *Chausse-trappes*, Edward Lachman et Elieba Levine (Minuit, 1981), avec une préface d'Alain Robbe-Grillet, « Pour un Nouveau Roman-Photo ».
-* *Fugues*, Marie-Françoise Plissart et Benoît Peeters, roman-photo (Minuit, 1983).
-* *Droit de regards*, Marie-Françoise Plissart, roman-photo (Minuit, 1985, Les Impressions nouvelles, 2010), avec une post-face de Jacques Derrida.
-* *Le Mauvais œil*, Marie-Françoise Plissart et Benoît Peeters, roman-photo (Minuit, 1986).
+<!-- .slide: class="hover"-->
+
+## Du magazine au livre&nbsp;: la remédiation éditoriale du Roman-photo
+
+* Remédiation = médiation d'une médiation
+* Désigne la façon dont un "nouveau" média vampirise un "vieux" médias
+* Ex : l'Iphone émet un son lorsqu'on prend une photo (bruit du déclencheur de l'appareil argentique)
+* Du magazine jetable au livre : le roman-photo reste-t-il un roman-photo&nbsp;?
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+<!-- .slide: data-background-image="img/Pour-un-nouveau-roman.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+## L'héritage des avant-gardes littéraires du Nouveau Roman
+* Alain Robbe-Grillet : *Pour un Nouveau Roman* (Minuit, 1963)
+* Refus des catégories traditionnelles du genre romanesque
+* Déconstruction de l'intrigue classique et du "portrait psychologique" des personnages
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/minuitRP.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+
+## Une re-construction éditoriale&nbsp;: <br/>le rôle des éditions de Minuit
+
+* Traduction de *Chausse-trappes*, Edward Lachman et Elieba Levine (Minuit, 1981), avec une préface d'Alain Robbe-Grillet, « Pour un Nouveau Roman-Photo ».
+* Création d'une collection dédiée
+* Légitimation éditoriale et littéraire
+* Inscription dans un projet conceptuel (Robbe-Grillet)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/minuitRP.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Numeriser0003.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+
 ## Marie-Françoisse Plissart, maître du genre
 
+* *Fugues*, Marie-Françoise Plissart et Benoît Peeters, roman-photo (Minuit, 1983).
+* *Droit de regards*, Marie-Françoise Plissart, roman-photo (Minuit, 1985, Les Impressions nouvelles, 2010), avec une post-face de Jacques Derrida.
+* *Le Mauvais œil*, Marie-Françoise Plissart et Benoît Peeters, roman-photo (Minuit, 1986).
 * *Prague*, Marie-Françoise Plissart et Benoît Peeters, (Autrement, 1985).
 * *Aujourd'hui*, Marie-Françoise Plissart et Benoît Peeters, (Arboris, 1993).
 * *Bruxelles, horizon vertical*, Marie-Françoise Plissart et Benoît Peeters (Prisme, 1998).
@@ -277,65 +338,259 @@ source : _Madame Bovary_ (adaptation en roman-photo).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+<!-- .slide: data-background-image="img/Fugues.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
 ## De nouveaux territoires narratifs
 * Variation des genres (roman policier, récit de voyage)
-* Complexification des intrigues
-* Véritable narration texte/image (fin de l'illustration)
+* Complexification des intrigues (y compris sentimentales)
+* Véritable narration texte/image (fin de l'effet "illustration")
+* Recherche d'une esthétique de l'image
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Fugues.jpg" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Fugues01.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+<!-- .slide: data-background-image="img/pdv2.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
 
 ## Revalorisation du médium photographique
 * Esthétique et regard photographique (jeu de focalisation et de point de vue)
 * Intégration de la photographie au scénario (aspect métatextuel)
 * Jeu avec les connotations de la photographie (médium d'espionnage)
 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Un remédiation politisée (*Droit de regard*)
+<!-- .slide: data-background-image="img/pdv1.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pdv2.png" data-background-size="contain"-->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/sceneERo.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+## Un nouveau Roman Photo pour les femmes (*Droit de regard*)
 * Féminisme
-* Érotisme
+* Érotisme féminin
 * LGBT
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+<!-- .slide: data-background-image="img/Numeriser0003.jpg" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/jeuDame.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
 ## Une remédiation élitiste ?
-* Icône Féministe et LGBT
+* Expérimentation de formes conceptuelles :
+  - roman-photo sans texte
+  - structure narrative déconstruite
+  - des images dont il faut apprendre à lire les connotations
+* Appropriation théorique
 * Échec commercial
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-## Remédiations du roman-photo au cinéma
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/jeuDame.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/jeuDame.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+>- Tu ne sauras jamais, vous non plus, toutes les histoires que j’ai pu encore me raconter en regardant ces images.
+ 
+>- Ces images ? Il faudrait alors qu’elles donnent quelque chose à voir ou à reconnaître, finalement, à l’instant où une intrigue se dénoue. Or, j’en ai du moins le sentiment, on s’ingénierait plutôt à nous dissimuler quelque chose.
+
+>Jacques Derrida, « Lecture de Droit de regards » (in nouvelle édition de *Droit de regards*) 
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<!-- .slide: data-background-image="img/65107382.jpg" data-background-size="contain"-->
+
+## Le photoromanesque : <br/>de la paralittérature à la culture de la convergence ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/nelFondo.png" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+
+## Du roman-photo au photo-romanesque
+
+>Tout comme il existe un romanesque hors roman, il y a du photo-romanesque bien au-delà des limites du roman-photo. […] En effet, la dynamique de la culture amène des croisements entre domaines qui, de prime abord, semblent s’exclure – en l’occurrence le monde du  roman-photo, représentation typique d’une industrie culturelle, et le monde de l’art, que l’on situe aux antipodes d’une telle industrie – mais entre lesquels il se crée des échanges féconds.
+
+>Jan Baetens, *Pour le roman-photo*, 2010.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+<!-- .slide: data-background-image="img/65107382.jpg" data-background-size="contain"-->
 
 ## *La Jetée*, Chris Marker (1960)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <iframe src="https://player.vimeo.com/video/138951063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/138951063">La Jet&eacute;e</a> from <a href="https://vimeo.com/user4727374">Or&eacute;lie Nada</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/138951063">La Jet&eacute;e</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## L'armée des 12 singes (Film)
+<!-- .slide: data-background-image="img/12monkeysfilm.jpg" data-background-size="contain"-->
+
+
+source : _12 Monkeys_ (Film de Terry Gilliam, 1995)
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## L'armée des 12 singes (série TV)
+<!-- .slide: data-background-image="img/serie12monkeys.jpg" data-background-size="contain"-->
+
+source : _12 Monkeys_ (série TV Syfy, 2015-XXXX)
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/fanfic.png" data-background-size="contain"-->
+
+source : _12 Monkeys_ (Fanfictions sur fanfiction.org)
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain"-->
+
+source : _12 Monkeys_ (Fanfictions sur Wattpad)
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/7d0b90fd7ae62aece218bb328295e739---monkeys-tv-couples.jpg" data-background-size="contain"-->
+
+source : _12 Monkeys_ (Fan Art sur Pinterest)
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/phpk2ZiOU.jpeg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
 
 ## Culture de la convergence
 
-* Henry Jenkins, *La Culture de la convergence. Des médias au transmédia*, Paris, A. Colin/Ina Éd., coll. Médiacultures, 2013 [2006].
+* Henry Jenkins, *La Culture de la convergence. Des médias au transmédia* [*Convergence culture : Where old and new media collide*], Paris, A. Colin/Ina Éd., coll. Médiacultures, 2013 [2006].
+* Une autre façon de penser les relations entre anciens et nouveaux médias, basée sur l'inter-dépendance, prenant en compte la dimension sociale, culturelle, discursive des médias (pas seulement formelle).
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-## Le photoromanesque au secours du photojournalisme
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/convergence.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+>Bienvenue dans la culture de la convergence, là où entrent en collision anciens et nouveaux médias, où se rencontrent les médias élaborés par le bas et les médias commerciaux, où les pouvoirs du producteur et du consommateur de médias interagissent de façon imprévisible.
+
+>Henry Jenkins, *La Culture de la convergence. Des médias au transmédia*
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## De la contrainte... à la liberté éditoriale
+<!-- .slide: data-background-image="img/convergence.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+>La convergence est [...] un changement d’ordre culturel : les consommateurs sont encouragés à rechercher de nouvelles informations et à établir des connexions entre des contenus médiatiques dispersés.
+
+>Henry Jenkins, *La Culture de la convergence. Des médias au transmédia*
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/convergence.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+## La culture de la convergence : une nouvelle façon de penser les pratiques paralittéraires ?
+
+* Engagement des lecteurs/usagers/spectateur
+* Narrations trans-cross-média
+* Réseaux et partage d'histoire
+* Communautés de lecteurs-créateurs
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/convergence.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+>La consommation est devenue un processus collectif, et c’est ce que j’entends ici par « intelligence collective », expression inventée par le cyber-théoricien français Pierre Lévy. Personne ne peut tout savoir ; chacun de nous sait quelque chose ; et il est possible de réunir tout cela en mettant nos ressources en commun et en associant entre elles nos compétences.
+
+>Henry Jenkins, *La Culture de la convergence. Des médias au transmédia*
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/convergence.jpg" data-background-size="contain"-->
+
+<!-- .slide: class="hover"-->
+
+>L’histoire montre [...] que les vieux médias ne meurent jamais et qu’ils ne tombent pas forcément en désuétude.
+
+>Henry Jenkins, *La Culture de la convergence. Des médias au transmédia*
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ibJaqXVaOaI" frameborder="0"  allowfullscreen></iframe>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/aeW6k2RLxF4" frameborder="0" allowfullscreen></iframe>
